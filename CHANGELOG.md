@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+- Add PWM interrupt example
 - Move from bors/manual merge to GH merge queue
 - Add tools/check.py python script for local check
 - Add changelog check on PRs
